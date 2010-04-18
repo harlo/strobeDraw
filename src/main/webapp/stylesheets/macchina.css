@@ -1,0 +1,29 @@
+body {
+	font-family:helvetica;
+	padding:0;
+	margin:0;
+	background-color:#000;
+}
+
+#canvas_wrap {
+	position:relative;
+	float:center;
+	width:1050px;
+	height:650px;
+	top:40px;
+	margin:auto;
+}
+
+#canvas {
+	text-align:center;
+	background-color:#fff;
+	position:absolute;
+	top:10px;
+	left:10px;
+	width:1000px;
+	height:600px;
+	border:1px solid #999;
+	padding:10px;
+	margin:0;
+	cursor:crosshair;
+}
